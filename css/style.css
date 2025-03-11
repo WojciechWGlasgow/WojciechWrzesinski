@@ -150,7 +150,7 @@ a {
 }
 
 .three-cards, .four-cards {
-    width: 1200px;
+    width: 100%;
     margin: auto;
     padding-bottom: 20px;
 }
@@ -162,7 +162,7 @@ a {
 }
 
 .card {
-    width: 400px;
+    width: auto;
     border: 1px solid black;
 }
 
